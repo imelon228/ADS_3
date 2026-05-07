@@ -5,7 +5,9 @@ Assignment 3 Sorting and Searching
 
 A. Project Overview
 Basic sort - Bubble sort.
+
 Advanced Sort - Quick sort. 
+
 Purpose of the experiment - analyze how much time basic and advanced sorts, as well as searching algorithms(linear and binary) take time based on small(10), medium(100) and large(1000) sizes of arrays.
 
 B. Algorithm Descriptions
